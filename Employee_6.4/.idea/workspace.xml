@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e65a6289-f76a-45b9-ac30-fea0f6ffeb48" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WIZfcIg9Xoi2XsH6esUIB3ZIOo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Employee_6.4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e65a6289-f76a-45b9-ac30-fea0f6ffeb48" name="Default Changelist" comment="" />
+      <created>1578839173479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578839173479</updated>
+      <workItem from="1578839175680" duration="433000" />
+      <workItem from="1578839627092" duration="100000" />
+      <workItem from="1578839744759" duration="2000" />
+      <workItem from="1578839764485" duration="2483000" />
+      <workItem from="1578939224427" duration="1309000" />
+      <workItem from="1579619946255" duration="420000" />
+      <workItem from="1579621409766" duration="375000" />
+      <workItem from="1579621935808" duration="3000" />
+      <workItem from="1579621957371" duration="1162000" />
+      <workItem from="1579623197189" duration="41000" />
+      <workItem from="1579624027248" duration="1144000" />
+      <workItem from="1579625242131" duration="1006000" />
+      <workItem from="1579709336736" duration="3604000" />
+      <workItem from="1579715649531" duration="7127000" />
+      <workItem from="1579953202066" duration="20016000" />
+      <workItem from="1580233467417" duration="2066000" />
+      <workItem from="1580238004987" duration="387000" />
+      <workItem from="1580322942228" duration="2320000" />
+      <workItem from="1580487719721" duration="11251000" />
+      <workItem from="1580749303939" duration="8177000" />
+      <workItem from="1580762315313" duration="67000" />
+      <workItem from="1580836415103" duration="1711000" />
+      <workItem from="1581017338684" duration="7286000" />
+      <workItem from="1581030545738" duration="4377000" />
+      <workItem from="1585583447326" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="209" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1579621971852">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="458" y="209" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.23.1440.826@0.23.1440.826" timestamp="1579621971852" />
+    <state x="896" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1581062395076">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="896" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1581062395076" />
+    <state x="896" y="175" key="#com.intellij.ide.util.MemberChooser/0.23.1440.825@0.23.1440.825" timestamp="1580041171595" />
+    <state x="896" y="175" key="#com.intellij.ide.util.MemberChooser/0.23.1440.826@0.23.1440.826" timestamp="1579625084050" />
+    <state x="896" y="176" key="#com.intellij.ide.util.MemberChooser/0.23.1440.827@0.23.1440.827" timestamp="1580323139463" />
+    <state x="821" y="204" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1581058935000">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="821" y="204" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1581058935000" />
+    <state x="821" y="210" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1440.825@0.23.1440.825" timestamp="1580761541512" />
+    <state width="1398" height="357" key="GridCell.Tab.0.bottom" timestamp="1585583499730">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="409" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581063254197" />
+    <state width="1398" height="409" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1581066248785" />
+    <state width="1398" height="257" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1580327911140" />
+    <state width="1398" height="258" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1580326930181" />
+    <state width="1398" height="357" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1585583499730" />
+    <state width="1398" height="357" key="GridCell.Tab.0.center" timestamp="1585583499729">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="409" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1581063254195" />
+    <state width="1398" height="409" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1581066248782" />
+    <state width="1398" height="257" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1580327911139" />
+    <state width="1398" height="258" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1580326930179" />
+    <state width="1398" height="357" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1585583499729" />
+    <state width="1398" height="357" key="GridCell.Tab.0.left" timestamp="1585583499728">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="409" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1581063254194" />
+    <state width="1398" height="409" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1581066248781" />
+    <state width="1398" height="257" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1580327911139" />
+    <state width="1398" height="258" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1580326930177" />
+    <state width="1398" height="357" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1585583499728" />
+    <state width="1398" height="357" key="GridCell.Tab.0.right" timestamp="1585583499729">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="409" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1581063254196" />
+    <state width="1398" height="409" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1581066248782" />
+    <state width="1398" height="257" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1580327911140" />
+    <state width="1398" height="258" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1580326930179" />
+    <state width="1398" height="357" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1585583499729" />
+    <state width="1398" height="264" key="GridCell.Tab.1.bottom" timestamp="1580158243228">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.bottom/0.23.1440.825@0.23.1440.825" timestamp="1580158243228" />
+    <state width="1398" height="264" key="GridCell.Tab.1.center" timestamp="1580158243227">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.center/0.23.1440.825@0.23.1440.825" timestamp="1580158243227" />
+    <state width="1398" height="264" key="GridCell.Tab.1.left" timestamp="1580158243227">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.left/0.23.1440.825@0.23.1440.825" timestamp="1580158243227" />
+    <state width="1398" height="264" key="GridCell.Tab.1.right" timestamp="1580158243228">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state width="1398" height="264" key="GridCell.Tab.1.right/0.23.1440.825@0.23.1440.825" timestamp="1580158243228" />
+    <state x="221" y="56" key="SettingsEditor" timestamp="1581158561799">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="56" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581158561799" />
+    <state x="221" y="74" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1581156968537" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1581158697020">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="397" y="266" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1581030545770" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1581158697020" />
+    <state x="397" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1579619953632" />
+    <state x="397" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1580323070709" />
+    <state x="499" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1580040639891">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="499" y="169" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.23.1440.825@0.23.1440.825" timestamp="1580040639891" />
+    <state x="458" y="210" key="extract.method.dialog" timestamp="1581017966826">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="210" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1581017966826" />
+    <state x="482" y="29" key="refactoring.ChangeSignatureDialog" timestamp="1581059086267">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="482" y="29" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1581059086267" />
+    <state x="482" y="50" key="refactoring.ChangeSignatureDialog/0.23.1440.825@0.23.1440.825" timestamp="1580761574873" />
+    <state x="482" y="50" key="refactoring.ChangeSignatureDialog/0.23.1440.826@0.23.1440.826" timestamp="1579622396994" />
+  </component>
+</project>

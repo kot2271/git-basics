@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a5e1234-1100-4917-9bdf-687150e205e8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/AirPort_7.8/out/production/AirPort_7.8/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/AirPort_7.8/out/production/AirPort_7.8/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/AirPort_7.8/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../07_AdvancedOOPFeatures/AirPort_7.8/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/exceptions.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/exceptions.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/input_errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/input_errors.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/search.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/search.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_FilesAndNetwork/msc_Metro_Parser_9.14/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_FilesAndNetwork/msc_Metro_Parser_9.14/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../09_FilesAndNetwork/msc_Metro_Parser_9.14/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../09_FilesAndNetwork/msc_Metro_Parser_9.14/target/classes/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="88" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Y5X0jEzJOD3XTd6g4tmlkVqCQm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559622580090" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="SPBMetro" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPBMetro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest.testCalculateDurationFromStationToSameStationRoute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPBMetro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateDurationFromStationToSameStationRoute" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest.testCalculateDurationViaTransferRoute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPBMetro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="METHOD_NAME" value="testCalculateDurationViaTransferRoute" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RouteCalculatorTest.testGetRouteFromStationToSameStation" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SPBMetro" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="RouteCalculatorTest" />
+      <option name="METHOD_NAME" value="testGetRouteFromStationToSameStation" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.RouteCalculatorTest.testCalculateDurationFromStationToSameStationRoute" />
+        <item itemvalue="JUnit.RouteCalculatorTest.testGetRouteFromStationToSameStation" />
+        <item itemvalue="JUnit.RouteCalculatorTest" />
+        <item itemvalue="JUnit.RouteCalculatorTest.testCalculateDurationViaTransferRoute" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a5e1234-1100-4917-9bdf-687150e205e8" name="Default Changelist" comment="" />
+      <created>1559569584327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1559569584327</updated>
+      <workItem from="1582233210300" duration="2026000" />
+      <workItem from="1582384706220" duration="29524000" />
+      <workItem from="1582549567304" duration="31087000" />
+      <workItem from="1584191716284" duration="30000" />
+      <workItem from="1584892747296" duration="388000" />
+      <workItem from="1585584356677" duration="22000" />
+      <workItem from="1585584396795" duration="167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="640" y="115" key="#Inspections" timestamp="1582483082976">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="640" y="115" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1582483082976" />
+    <state x="763" y="100" width="577" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582751715289">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="763" y="100" width="577" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1440.900@0.0.1440.900" timestamp="1582751715289" />
+    <state x="763" y="100" width="577" height="700" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.826@0.23.1440.826" timestamp="1582568646423" />
+    <state x="569" y="331" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582233291933">
+      <screen x="0" y="23" width="1440" height="825" />
+    </state>
+    <state x="569" y="331" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.825@0.23.1440.825" timestamp="1582233291933" />
+    <state x="533" y="41" key="#spb-metro_[install]" timestamp="1582463744638">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="41" key="#spb-metro_[install]/0.0.1440.900@0.0.1440.900" timestamp="1582463744638" />
+    <state width="497" height="438" key="DebuggerActiveHint" timestamp="1582559142954">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="497" height="438" key="DebuggerActiveHint/0.23.1440.826@0.23.1440.826" timestamp="1582559142954" />
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom" timestamp="1585584563864">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582752128042" />
+    <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1582407844014" />
+    <state width="1398" height="302" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1583095428400" />
+    <state width="1398" height="239" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1585584563864" />
+    <state width="1398" height="239" key="GridCell.Tab.0.center" timestamp="1585584563863">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582752128041" />
+    <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1582407844014" />
+    <state width="1398" height="302" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1583095428399" />
+    <state width="1398" height="239" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1585584563863" />
+    <state width="1398" height="239" key="GridCell.Tab.0.left" timestamp="1585584563862">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582752128040" />
+    <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1582407844013" />
+    <state width="1398" height="302" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1583095428398" />
+    <state width="1398" height="239" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1585584563862" />
+    <state width="1398" height="239" key="GridCell.Tab.0.right" timestamp="1585584563863">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="273" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582752128042" />
+    <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1582407844014" />
+    <state width="1398" height="302" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1583095428399" />
+    <state width="1398" height="239" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1585584563863" />
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom" timestamp="1583095428401">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582751716953" />
+    <state width="1398" height="302" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1583095428401" />
+    <state width="1398" height="302" key="GridCell.Tab.1.center" timestamp="1583095428400">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1582751716952" />
+    <state width="1398" height="302" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1583095428400" />
+    <state width="1398" height="302" key="GridCell.Tab.1.left" timestamp="1583095428400">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1582751716951" />
+    <state width="1398" height="302" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1583095428400" />
+    <state width="1398" height="302" key="GridCell.Tab.1.right" timestamp="1583095428400">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="1398" height="302" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1582751716952" />
+    <state width="1398" height="302" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1583095428400" />
+    <state x="516" y="112" key="Maven.ArtifactSearchDialog" timestamp="1582466333558">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="516" y="112" key="Maven.ArtifactSearchDialog/0.0.1440.900@0.0.1440.900" timestamp="1582466333558" />
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog" timestamp="1585584397442">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state x="397" y="268" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1582384706250" />
+    <state x="397" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.827@0.23.1440.827" timestamp="1584892749100" />
+    <state x="397" y="270" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1585584397442" />
+    <state x="458" y="196" width="531" height="484" key="extract.method.dialog" timestamp="1582558275932">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="458" y="196" width="531" height="484" key="extract.method.dialog/0.23.1440.826@0.23.1440.826" timestamp="1582558275932" />
+    <state x="789" y="73" key="refactoring.ChangeSignatureDialog" timestamp="1582565017030">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="789" y="73" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1582565017030" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SPBMetro$RouteCalculatorTest.ic" NAME="RouteCalculatorTest Coverage Results" MODIFIED="1582750947002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SPBMetro$RouteCalculatorTest_testGetRouteViaConnectedLine.ic" NAME="RouteCalculatorTest.testGetRouteViaConnectedLine Coverage Results" MODIFIED="1582549997339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SPBMetro$RouteCalculatorTest_testCalculateDuration.ic" NAME="RouteCalculatorTest.testCalculateDuration Coverage Results" MODIFIED="1582401703341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/SPBMetro$RouteCalculatorTest_testGetShortestRoute.ic" NAME="RouteCalculatorTest.testGetShortestRoute Coverage Results" MODIFIED="1582557780790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

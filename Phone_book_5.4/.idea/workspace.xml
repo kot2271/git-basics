@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eecaef04-aabb-40c0-a325-01657cf9b0ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SkH245fiiyWPScJGcxvJ4JvFyg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Phone_book_5.4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eecaef04-aabb-40c0-a325-01657cf9b0ca" name="Default Changelist" comment="" />
+      <created>1572100462825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572100462825</updated>
+      <workItem from="1572100465965" duration="261000" />
+      <workItem from="1572100768621" duration="1128000" />
+      <workItem from="1572164045072" duration="1084000" />
+      <workItem from="1572172407362" duration="393000" />
+      <workItem from="1572173001045" duration="193000" />
+      <workItem from="1572173322464" duration="76000" />
+      <workItem from="1572173428430" duration="45000" />
+      <workItem from="1572173489750" duration="123000" />
+      <workItem from="1572173663494" duration="3000" />
+      <workItem from="1572173680963" duration="89000" />
+      <workItem from="1572173790800" duration="494000" />
+      <workItem from="1572174446678" duration="1040000" />
+      <workItem from="1572277372192" duration="2271000" />
+      <workItem from="1572281984727" duration="1290000" />
+      <workItem from="1572288578425" duration="331000" />
+      <workItem from="1572366317974" duration="32000" />
+      <workItem from="1572366401944" duration="5146000" />
+      <workItem from="1572376334835" duration="43000" />
+      <workItem from="1572445668084" duration="537000" />
+      <workItem from="1572450527730" duration="5994000" />
+      <workItem from="1572691872948" duration="8739000" />
+      <workItem from="1572859523440" duration="4388000" />
+      <workItem from="1572867426240" duration="481000" />
+      <workItem from="1572878655541" duration="520000" />
+      <workItem from="1572879643012" duration="341000" />
+      <workItem from="1572969099797" duration="1915000" />
+      <workItem from="1573386028909" duration="4241000" />
+      <workItem from="1573496336334" duration="4177000" />
+      <workItem from="1573986496237" duration="7015000" />
+      <workItem from="1585581816125" duration="497000" />
+      <workItem from="1585582318694" duration="9000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="458" key="GridCell.Tab.0.bottom" timestamp="1585582314371">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="458" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1585582140477" />
+    <state width="1398" height="458" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1585582314371" />
+    <state width="1398" height="458" key="GridCell.Tab.0.center" timestamp="1585582314370">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="458" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1585582140476" />
+    <state width="1398" height="458" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1585582314370" />
+    <state width="1398" height="458" key="GridCell.Tab.0.left" timestamp="1585582314369">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="458" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1585582140476" />
+    <state width="1398" height="458" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1585582314369" />
+    <state width="1398" height="458" key="GridCell.Tab.0.right" timestamp="1585582314370">
+      <screen x="0" y="23" width="1440" height="829" />
+    </state>
+    <state width="1398" height="458" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1585582140477" />
+    <state width="1398" height="458" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1585582314370" />
+    <state x="397" y="269" key="com.intellij.ide.util.TipDialog" timestamp="1585581816319">
+      <screen x="0" y="23" width="1440" height="828" />
+    </state>
+    <state x="397" y="269" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1585581816319" />
+  </component>
+</project>
