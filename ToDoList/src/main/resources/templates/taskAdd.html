@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Сайт список дел</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+</head>
+<body>
+<header th:insert="blocks/header :: header"></header>
+
+<div class="container mt-5 mb-5">
+    <h1>Добавление дела</h1>
+    <form action="/tasks/add" method="post">
+        <input type="text" name="title" placeholder="Что нужно сделать" class="form-control"><br>
+        <input type="text" name="description" placeholder="Описание дела" class="form-control"><br>
+        <textarea name="full_text" placeholder="Заметки" class="form-control"></textarea><br>
+        <button type="submit" class="btn btn-success">Добавить дело</button>
+    </form>
+</div>
+
+<div th:insert="blocks/footer :: footer"></div>
+</body>
+</html>

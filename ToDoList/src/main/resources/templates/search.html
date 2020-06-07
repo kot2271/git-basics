@@ -1,0 +1,28 @@
+<!DOCTYPE HTML>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title th:text="${title}"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+</head>
+<body>
+<header th:insert="blocks/header :: header"></header>
+<div class="container mt-5 mb-5">
+    <h1>Поиск дела</h1>
+    <form action="/tasks/search" method="get">
+        <input type="search" name="query" placeholder="Что ищем ?" class="form-control"><br>
+        <button type="submit" class="btn btn-success">Искать</button>
+    </form>
+    <div id="task-list">
+        <div th:each="el : ${tasks}" class="alert alert-info mt-2">
+            <h3 th:text="${el.title}"/>
+            <p th:text="${el.description}"/>
+            <a th:href=" '/tasks/' + ${el.id}" class="btn btn-warning">Поиск</a>
+        </div>
+    </div>
+</div>
+<div th:insert="blocks/footer :: footer"></div>
+</body>
+</html>
+
+
